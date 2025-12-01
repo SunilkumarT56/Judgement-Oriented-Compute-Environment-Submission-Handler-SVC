@@ -13,9 +13,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type":"module",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/SunilkumarT56/Judgement-Oriented-Compute-Environment-Submission-Handler-SVC/issues"
   },
-  "homepage": "https://github.com/SunilkumarT56/Judgement-Oriented-Compute-Environment-Submission-Handler-SVC#readme"
+  "homepage": "https://github.com/SunilkumarT56/Judgement-Oriented-Compute-Environment-Submission-Handler-SVC#readme",
+  "dependencies": {
+    "@types/express": "^5.0.5"
+  }
 }
