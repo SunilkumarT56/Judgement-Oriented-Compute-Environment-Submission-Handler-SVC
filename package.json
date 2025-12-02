@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/SunilkumarT56/Judgement-Oriented-Compute-Environment-Submission-Handler-SVC#readme",
   "dependencies": {
-    "@types/express": "^5.0.5"
+    "@types/express": "^5.0.5",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3"
   }
 }
