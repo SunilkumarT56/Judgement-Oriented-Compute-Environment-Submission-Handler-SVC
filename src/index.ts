@@ -6,7 +6,7 @@ app.get("/me", (req, res) => {
     
     res.send("Hello World!!!!!!!!!!!!!!");
 });
-app.get("/submit", (req, res) => {
+app.get("/submiiit", (req, res) => {
     res.send("OK");
 })
 app.get("/health", (req, res) => {
